@@ -1,0 +1,1 @@
+document.getElementById('para1').style.background('blue')
